@@ -12,3 +12,6 @@ Using the latest version of Xcode, create an app that has one button and a text 
 # Your comments or assumptions
 - <add them here>
 
+I decided to add a reset button below to reset the number to zero again.
+
+I added a few emojis to make it more enticing to press the button.
